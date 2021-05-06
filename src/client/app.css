@@ -1,0 +1,47 @@
+h1 {
+  color: green;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.link {
+  border: none;
+}
+
+.app-container {
+  padding: 30px;
+}
+
+.job-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.company-logo {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-right: 25px;
+  margin-left: 10px;
+}
+
+.media {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.job-title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.job-description, .job-req {
+  font-size: 0.875rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+}
